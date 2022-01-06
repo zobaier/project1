@@ -1,0 +1,154 @@
+* {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.year {
+    color: cadetblue;
+}
+
+
+.left-side {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.right-side {
+    width: 45%;
+}
+.right-side img {
+    width: 100%;
+}
+
+p {
+    padding-bottom: 7px;
+}
+
+
+
+.btn {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(247, 248, 246);
+    background-color: coral;
+
+}
+
+
+.btn:hover{
+    color: transparent rgb(66, 66, 248);
+    transition: 0.5sec;
+    cursor: pointer;
+
+}
+
+.my-mission {
+    text-align: center;
+    padding: 5%;
+}
+
+.mission year {
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+
+.card {
+    width: 30%;
+    height: 300px;
+    background-color: rgb(245, 142, 194);
+    padding: 10px;
+    border:  1 px solid grey;
+    border-radius: 10px;
+}
+
+.mission img {
+    width: 55%;
+}
+
+.vission img {
+    width: 55%;
+}
+
+.goals img {
+    width: 55%;
+}
+
+
+.containerr {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+.left1 {
+    width: 45%;
+    margin-top: 10%;
+
+}
+
+
+.right1 {
+    width: 100%;
+    margin-top: 30%;
+
+}
+
+.pic img {
+    width: 80%;
+}
+
+
+
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.left-side2 {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.right-side2 {
+    width: 45%;
+}
+.right-side2 img {
+    width: 100%;
+}
+
+
+
+footer {
+    text-align: center;
+}
